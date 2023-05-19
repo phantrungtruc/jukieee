@@ -1,6 +1,6 @@
 Lệnh SETUP & RUN
 
-git clone https://github.com/dangminhtri123/HTTPS-BYPASSv2
+git clone https://github.com/phantrungtruc/jukie.git
 
 cd HTTPS-BYPASSv2
 
